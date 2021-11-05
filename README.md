@@ -8,4 +8,6 @@
 
 ## Projects
 
+1. [EasyLib](https://github.com/losniercruz/EasyLib): mega library for sensor modules for Arduino/IDE] - C++/Arduino
+
 *-Working on it-*
